@@ -1,0 +1,4 @@
+programme affectationLexi{
+	entier i;
+	i%2;
+}
