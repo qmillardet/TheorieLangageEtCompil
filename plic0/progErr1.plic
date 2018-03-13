@@ -1,0 +1,12 @@
+#prog erreur
+
+programme progErr1 {
+	
+	
+	#Erreur lexicale
+	int i;
+
+	i:=31;
+	
+	ecrire i;
+}

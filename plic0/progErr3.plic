@@ -1,0 +1,11 @@
+#prog erreur 
+
+programme progErr3 {
+	
+	entier i;
+
+	#Erreur sémantique
+	i:=vrai;
+	
+	ecrire i;
+}

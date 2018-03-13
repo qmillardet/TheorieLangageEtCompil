@@ -1,0 +1,11 @@
+#prog OK
+
+programme progOK2 {
+	
+	entier i,j;
+	i:=31;
+	j:=32;
+	
+	ecrire i,j;
+	
+}
