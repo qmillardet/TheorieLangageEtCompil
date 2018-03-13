@@ -1,6 +1,6 @@
 /* Petite erreur d'orthographe */
 
 programme c {
-	entier a;
-	erire a;
+	entier a ;
+	erire a ;
 }
