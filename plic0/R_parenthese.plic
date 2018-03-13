@@ -1,0 +1,6 @@
+/* Je n'ai pas fermé mon commentaire */
+
+programme erreurParenthese {
+	entier i ; /* Oupss 
+	ecrire i ;
+} 

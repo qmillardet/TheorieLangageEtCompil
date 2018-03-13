@@ -1,0 +1,9 @@
+/* Programme de test correct Plic */
+programme correct {
+	entier i j ;
+	i := 30 ;
+	j := 2 ;
+	ecrire j ; /* Petit commentaire */
+	ecrire i ;
+}
+/* Un commentaire de fin */
