@@ -1,7 +1,6 @@
 programme correct3 {
-	entier i;
-	entier j;
-	i := 31;
-	j := i;
-	ecrire j;
+	entier abc;
+	abc := 31;
+	ecrire abc;
 }
+	

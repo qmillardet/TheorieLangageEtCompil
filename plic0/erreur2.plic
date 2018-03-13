@@ -1,4 +1,4 @@
-programme correct2
+progrramme erreur1 /* 'programme' mal orthographié */
 {
 	entier n p;
 	n := 15;
