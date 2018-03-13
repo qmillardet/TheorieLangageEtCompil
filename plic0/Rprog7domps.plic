@@ -1,0 +1,4 @@
+programme affectation5{
+	entier i;
+	i:=5;
+}
