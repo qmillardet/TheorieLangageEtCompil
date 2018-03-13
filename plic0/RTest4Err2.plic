@@ -1,0 +1,5 @@
+programme Test4{
+	entier a;
+	a = 2; /*commentaire devant etre ignoré */
+	
+}
