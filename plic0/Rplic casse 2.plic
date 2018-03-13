@@ -1,5 +1,5 @@
 programme lol {
-	entier i;
-	i:=1;
-	ecire i;
+	entier i ;
+	i :=1 ;
+	ecire i ;
 }
