@@ -4,7 +4,7 @@ programme progErr3 {
 	
 	entier i;
 
-	#Erreur sémantique
+	#Erreur sÃ©mantique
 	i:=vrai;
 	
 	ecrire i;
