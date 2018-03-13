@@ -1,11 +1,11 @@
 programme compilErrLex{
-	#Declaration double entier
+	/* Declaration double entier */
 	entier test2,test3;
 	
-	#Affectation simple dans test2;
+	/* Affectation simple dans test2; */
 	test2 := 1;
 	
-	#Affectation simple dans test3;
+	/* Affectation simple dans test3; */
 	test3 := 2;
 }
 

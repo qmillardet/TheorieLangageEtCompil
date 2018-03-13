@@ -2,8 +2,4 @@ programme lol {
 	entier i ;
 	i := 1 ;
 	ecrire i ;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 5fccf9f87b9ef9bd48c81a4e1dbac6bbc860bb08

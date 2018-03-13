@@ -1,7 +1,7 @@
 compilErrSem.plicprogramme compilErrLex{
-	#Declaration simple d'un entier
+	/* Declaration simple d'un entier */
 	entier test4;
 	
-	#Affectation erronée
+	/* Affectation erronée */
 	test4 = 1;
 }
