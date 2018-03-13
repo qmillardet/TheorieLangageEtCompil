@@ -1,0 +1,9 @@
+programme correct2
+{
+	entier n p;
+	n := 15;
+	ecrire n;
+	p := 3;
+	ecrire p;
+}
+	

@@ -1,0 +1,9 @@
+programme 
+
+correct1   {
+	entier  abc  ;
+	abc   := 31;
+	ecrire abc   ;
+		}
+
+/* Mal indenté mais correct */
