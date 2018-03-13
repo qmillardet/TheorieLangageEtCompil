@@ -1,0 +1,8 @@
+programme ProgrammePlic{
+	entier i j;
+	booleen b;
+	i := 3; /* On associe une cosntante à un entier */
+	v := faux; /* Oui, c'est faux */
+	
+
+}

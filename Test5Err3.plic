@@ -1,5 +1,0 @@
-programme Test5{
-	entier i;
-	i := vrai;
-
-}
