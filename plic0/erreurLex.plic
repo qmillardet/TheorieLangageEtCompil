@@ -1,0 +1,4 @@
+programme erreurLex {
+	entier i;
+	a%2;
+}

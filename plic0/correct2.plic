@@ -1,0 +1,6 @@
+programme correct2 {
+	entier i;
+	entier j;
+	i := 31;
+	ecrire i;
+}
