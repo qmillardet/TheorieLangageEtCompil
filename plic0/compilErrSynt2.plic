@@ -1,0 +1,7 @@
+compilErrSem.plicprogramme compilErrLex{
+	#Declaration simple d'un entier
+	entier test4;
+	
+	#Affectation erronée
+	test4 = 1;
+}
