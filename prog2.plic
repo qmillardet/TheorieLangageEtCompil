@@ -1,0 +1,5 @@
+programme prog2(boolean b) {
+  entier b ;
+  ecrire a ;
+  /*Erreur de syntaxe*/
+}
