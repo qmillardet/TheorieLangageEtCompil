@@ -1,0 +1,6 @@
+programme Test2{
+	entier i j;
+	i := 5;
+	j := 4;
+	ecrire i j;
+}

@@ -1,0 +1,4 @@
+prgm aabb{
+	entier i;
+	i := 5;
+}
