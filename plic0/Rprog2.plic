@@ -1,4 +1,4 @@
-programme prog2(boolean b) {
+programme prog2() {
   entier b ;
   ecrire a ;
   /*Erreur de syntaxe*/
