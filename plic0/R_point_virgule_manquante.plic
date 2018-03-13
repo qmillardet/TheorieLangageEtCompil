@@ -1,0 +1,6 @@
+/* il manque un point virgule dans le code */
+
+programme a {
+	entier i j 
+	ecrire i
+}	
