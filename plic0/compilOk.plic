@@ -1,0 +1,18 @@
+programme compilErrLex{
+	#Declaration entier simple
+	entier test1;
+	
+	#Affectation simple dans test1;
+	test1 := 1;
+}
+
+
+
+#Declaration double entier
+entier test2,test3;
+
+#Erreur lexicale
+ent test4;
+
+
+
