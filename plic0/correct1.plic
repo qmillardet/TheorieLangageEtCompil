@@ -1,8 +1,8 @@
 programme 
 
-correct1   {
+correct   {
 	entier  abc  ;
-	abc   := 31;
+	abc   := 31 ;
 	ecrire abc   ;
 		}
 

@@ -1,6 +1,6 @@
-programme compilErrLex{
+programme compilErrLex {
 	/* Declaration double entier */
-	entier test2 test3;
+	entier test2 test3 ;
 	
 	/* Affectation simple dans test2; */
 	test2 := 1 ;

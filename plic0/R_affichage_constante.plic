@@ -1,5 +1,5 @@
 /* On ne doit pas afficher une constante */
 
 programme const {
-	ecrire 3;
+	ecrire 3 ;
 }

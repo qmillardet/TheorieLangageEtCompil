@@ -1,4 +1,4 @@
-compilErrSem.plicprogramme compilErrLex{
-	ent test4;
+compilErrSem.plicprogramme compilErrLex {
+	ent test4 ;
 }
 

@@ -1,4 +1,4 @@
 programme erreurSem {
-	entier i;
-	i := k;
+	entier i ;
+	i := k ;
 }

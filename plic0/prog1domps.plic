@@ -1,6 +1,6 @@
 programme affectationOK {
 	entier i ;
 	i:=31 ;
-	/*on affiche*/
+	/* on affiche */
 	ecrire i ;
 }

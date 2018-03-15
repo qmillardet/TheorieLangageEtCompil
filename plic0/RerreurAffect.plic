@@ -1,5 +1,5 @@
 programme Affect{
-	entier i;
-	i = 5;
-	ecrire i;
+	entier i ;
+	i = 5 ;
+	ecrire i ;
 }

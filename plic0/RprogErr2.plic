@@ -2,10 +2,10 @@
 
 programme progErr2 {
 	
-	entier i;
+	entier i ;
 
 	#Erreur syntaxique
-	i=31;
+	i=31 ;
 	
-	ecrire i;
+	ecrire i ;
 }

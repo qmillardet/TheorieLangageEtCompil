@@ -1,8 +1,8 @@
 programme prog_ok {
-	entier a b; /* declaration d'un entier */
-	a := 5; /* affectation d'une valeur à un entier */
-	b:=1;
-	ecrire a; /* afficher l'entier */
-	a:=15;
-	ecrire a b;
+	entier a b ; /* declaration d'un entier */
+	a := 5 ; /* affectation d'une valeur à un entier */
+	b:=1 ;
+	ecrire a ; /* afficher l'entier */
+	a:=15 ;
+	ecrire a b ;
 }
