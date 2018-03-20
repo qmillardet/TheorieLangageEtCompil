@@ -1,7 +1,7 @@
 programme blabla {
 	/* Je m'amuse */ 
 
-	entier i;
-	i :=1;
+	entier i ;
+	i :=1 ;
 	/*
 }

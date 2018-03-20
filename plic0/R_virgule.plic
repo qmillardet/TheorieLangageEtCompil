@@ -1,5 +1,5 @@
 /* La virgule n'est pas reconnue dans la grammaire */
 programme virgule {
-	entier i, j k; 
-	ecrire i; 
+	entier i, j k ; 
+	ecrire i ; 
 }

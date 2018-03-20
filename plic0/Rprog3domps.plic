@@ -1,5 +1,6 @@
-programme affectationSem{
-	entier i;
-	i:=5;
-	entier i;
+programme affectationSem {
+	entier i ;
+	i := 5 ;
+	entier i ;
 }
+

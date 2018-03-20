@@ -1,4 +1,4 @@
-programme affectation5{
-	entier i;
-	i:=5;
+programme affectation5 {
+	entier i ;
+	i :=5 ;
 }

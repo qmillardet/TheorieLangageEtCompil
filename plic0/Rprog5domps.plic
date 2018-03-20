@@ -1,5 +1,5 @@
-programme affectationErrCom{
-	entier i;
+programme affectationErrCom {
+	entier i ;
 	/*Ce commentaire n'est pas fermé
-	i:=5;
+	i:=5 ;
 }
