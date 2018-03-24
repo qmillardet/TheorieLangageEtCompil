@@ -1,0 +1,8 @@
+programme compilErrLex {
+	/* Declaration simple d'un entier */
+	entier test4 ;
+	
+	/* Affectation d'une chaîne à cet entier */
+	test4 := "" ;
+}
+

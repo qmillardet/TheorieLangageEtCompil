@@ -1,0 +1,11 @@
+programme correct {
+	/* On déclare ! */
+	entier i ;
+	entier j ;
+	/* On affecte ! */
+	i := 31 ;
+	j := 3 ;
+	/* On écrit ! */
+	ecrire i ;
+	ecrire j ;
+}

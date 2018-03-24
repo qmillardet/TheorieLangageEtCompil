@@ -1,0 +1,6 @@
+programme correct {
+	entier abc ;
+	abc := 31 ;
+	ecrire abc ;
+}
+	

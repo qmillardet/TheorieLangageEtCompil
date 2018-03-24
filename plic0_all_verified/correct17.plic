@@ -1,0 +1,6 @@
+programme FirstTest {
+	entier i ;
+	i := 3 ;
+	
+
+}

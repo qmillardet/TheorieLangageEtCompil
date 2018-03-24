@@ -1,0 +1,13 @@
+programme compilErrLex {
+	/* Declaration double entier */
+	entier a b ;
+	
+	/* Affectation simple dans a */
+	a := 1 ;
+	
+	/* Affectation simple dans b */
+	b := 2 ;
+}
+
+
+

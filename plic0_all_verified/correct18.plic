@@ -1,0 +1,6 @@
+programme blabla {
+	/* Je m'amuse */ 
+
+	entier i ;
+	i := 1 ;
+}
