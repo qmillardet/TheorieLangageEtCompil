@@ -1,4 +1,4 @@
-programme correct3 {
+programme correct {
 	entier abc ;
 	abc := 31 ;
 	ecrire abc ;

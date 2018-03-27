@@ -1,4 +1,4 @@
-programme correct2
+programme correct
 {
 	entier n p ;
 	n := 15 ;
