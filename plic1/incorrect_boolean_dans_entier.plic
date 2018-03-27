@@ -1,0 +1,14 @@
+ /* Insertion d'un bouleen dans une variable déclarée par un autre type */
+
+ programme boule {
+
+ 	boolean b ;
+
+ 	b := vrai ; 
+
+ 	ecrire b ; 
+
+ 	b := 2 ; 
+
+ 	ecrire b ;
+ }
