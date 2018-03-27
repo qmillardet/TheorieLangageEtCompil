@@ -1,0 +1,9 @@
+/*La variable b est à la fois un booleen et un entier*/
+
+programme plic {
+  entier a ;
+  entier b ;
+  booleen b ;
+  b := 3 ;
+  ecrire b ;
+}
