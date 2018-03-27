@@ -1,6 +1,7 @@
-programme correct
+programme erreur3
 {
 	entier n p ;
+	ecrire p ; /* p non initialisé */
 	n := 15 ;
 	ecrire n ;
 	p := 3 ;

@@ -1,0 +1,8 @@
+programme erreur1
+{
+	n := 15 ;
+	ecrire n ;
+	entier n p ; /* Déclaration mal placée */
+	p := 3 ;
+	ecrire p ;
+}

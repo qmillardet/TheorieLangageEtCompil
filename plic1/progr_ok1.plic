@@ -1,0 +1,10 @@
+programme programmeQuiFonctionne {
+  booleen a b ;
+  entier c d ;
+  a := vrai ;
+  b := faux ;
+  c := 10 ;
+  d := 50 ;
+  
+  ecrire a b c d ;
+}

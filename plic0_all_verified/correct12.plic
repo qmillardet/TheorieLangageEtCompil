@@ -1,0 +1,9 @@
+programme lol {
+	entier i j k l m n o p ;
+	i := 1 ;
+	i := 1 ;
+	i := 1 ;
+	i := 1 ;
+	j := 1 ;
+	ecrire o ;
+}

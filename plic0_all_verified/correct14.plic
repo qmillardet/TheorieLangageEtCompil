@@ -1,0 +1,5 @@
+programme blabla {
+	entier a ;
+	ecrire a ;
+	/* blab */
+}

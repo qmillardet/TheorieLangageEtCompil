@@ -1,0 +1,12 @@
+programme compilErrLex {
+	/* Declaration entier simple */
+	entier test ;
+	
+	/* Affectation simple dans test1; */
+	test := 1 ;
+}
+
+
+
+
+

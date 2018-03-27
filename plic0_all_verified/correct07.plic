@@ -1,4 +1,4 @@
-programme abc {
+programme correct {
 	/* On déclare ! */
 	entier i ;
 	entier j ;

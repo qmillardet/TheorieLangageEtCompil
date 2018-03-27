@@ -1,0 +1,5 @@
+programme prog {
+	entier b ;
+	b := 3 ;
+    ecrire b ; /*Ecriture de commentaire*/
+}

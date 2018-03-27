@@ -1,0 +1,8 @@
+/* Programme ayant une erreur lexicale */
+
+programme erreurSyntaxique {
+	entier j ;
+	j:= 2 ;
+	~ 3  ;
+	ecrire j ; 
+}
