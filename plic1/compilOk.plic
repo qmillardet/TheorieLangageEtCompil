@@ -1,0 +1,30 @@
+programme compilErrLex {
+	/* Declaration entier simple */
+	entier test ;
+	booleen b ;
+	
+	
+	/* Declaration entier simple */
+	entier testa ;
+	
+	/* Affectation simple dans test1; */
+	test := 12 ;
+	
+	b := faux ;
+	
+	
+	/* Affectation simple dans test1; */
+	
+	ecrire testa ;
+	
+	ecrire test ;
+	
+	ecrire b ;
+	ecrire b ; 
+	ecrire b ;
+}
+
+
+
+
+
