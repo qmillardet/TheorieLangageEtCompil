@@ -1,9 +1,12 @@
-programme correct2
-{
-	entier n p ;
+programme correct2 {
+	entier n p q ;
 	n := 15 ;
 	ecrire n ;
 	p := 3 ;
+	q := 2 ;
+	p := 4 ;
 	ecrire p ;
+	ecrire q ;
+
 }
 	
