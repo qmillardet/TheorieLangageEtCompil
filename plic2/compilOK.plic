@@ -12,16 +12,21 @@ programme compilErrLex {
 
 	b := faux ;
 
-  /* Condition */
-  si ( test = 12 ) alors {
+  si ( b ) alors {
     ecrire test ;
   }
   sinon {
     ecrire b ;
   }
   finsi
-  
+
 	/* Affectation simple dans test1; */
 
 	ecrire testa ;
+
+	ecrire test ;
+
+	ecrire b ;
+	ecrire b ;
+	ecrire b ;
 }

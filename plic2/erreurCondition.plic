@@ -13,7 +13,7 @@ programme compilErrLex {
 	b := faux ;
 
   /* Condition */
-  si ( test = 12 ) alors {
+  si ( test ) alors {
     ecrire test ;
   }
   sinon {
