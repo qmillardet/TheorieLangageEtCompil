@@ -19,7 +19,8 @@ programme compilErrLex {
   sinon {
     ecrire b ;
   }
-
+  finsi
+  
 	/* Affectation simple dans test1; */
 
 	ecrire testa ;
