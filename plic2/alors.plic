@@ -1,0 +1,14 @@
+programme testAlors {
+  entier a ;
+  entier b ;
+  a := 5 ;
+  b := 7 ;
+
+  si ( vrai ) alors {
+    a := b ;
+  }
+  finsi
+
+  ecrire a ;
+
+}

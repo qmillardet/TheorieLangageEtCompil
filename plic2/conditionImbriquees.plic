@@ -1,23 +1,30 @@
 programme doubleSi {
   booleen b ;
   entier a ;
+  entier c ;
 
   b := vrai ;
+  c := 4 ;
   ecrire b ;
 
+  /* Conditions imbriquées */
   si ( b ) alors {
     si ( vrai ) alors {
-      a := 1 ;
+      a := 1 + c ;
     }
     sinon {
-      a := 4 ;
+      a := c / 4 ;
     }
     finsi
   }
   sinon {
-    a := 5 ;
+    a := c * 5 ;
   }
   finsi
 
+  c := c - 8 ;
+
+  /* Ecriture pour voir où on en est */
   ecrire a ;
+  ecrire c ;
 }

@@ -1,0 +1,8 @@
+programme division {
+  entier a ;
+  entier b ;
+  booleen bool ;
+   b := 8 ;
+  a := b / b ;
+  ecrire a ;
+}
