@@ -1,0 +1,23 @@
+programme doubleSi {
+  booleen b ;
+  entier a ;
+
+  b := vrai ;
+  ecrire b ;
+
+  si ( b ) alors {
+    si ( vrai ) alors {
+      a := 1 ;
+    }
+    sinon {
+      a := 4 ;
+    }
+    finsi
+  }
+  sinon {
+    a := 5 ;
+  }
+  finsi
+
+  ecrire a ;
+}
