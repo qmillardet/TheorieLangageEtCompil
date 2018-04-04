@@ -1,0 +1,15 @@
+programme compilErrLex {
+	/* Declaration entier simple */
+	entier test testa ;
+	testa := 13 ;
+	test := 12 / testa / 2 ;
+	ecrire test ;
+	
+	
+	
+}
+
+
+
+
+
